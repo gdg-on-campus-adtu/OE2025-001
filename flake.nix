@@ -17,7 +17,11 @@
         {
           devShells.default = pkgs.mkShellNoCC {
             name = "OE2025-001";
-            packages = [ pkgs.presenterm ];
+            packages = [
+              pkgs.just
+              pkgs.presenterm
+              pkgs.python313Packages.weasyprint
+            ];
           };
         };
     };
