@@ -31,17 +31,17 @@ quick overview:
 # Start the presentation
 just present
 # or
-presenterm --config-file=config/config.yaml PRESENTATION.md
+presenterm --config-file=config/config.yaml src/presentation.md
 
 # Export the presentation as a PDF
 just pdf
 # or
-presenterm --config-file=config/config.yaml --export-pdf PRESENTATION.md
+presenterm --config-file=config/config.yaml --export-pdf src/presentation.md
 
 # Export the presentation as a portable HTML website
 just html
 # or
-presenterm --config-file=config/config.yaml --export-html PRESENTATION.md
+presenterm --config-file=config/config.yaml --export-html src/presentation.md
 ```
 
 ### 2. Licensing

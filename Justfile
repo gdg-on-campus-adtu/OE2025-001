@@ -4,12 +4,12 @@ default:
 
 [doc("Start the presentation")]
 present:
-    @presenterm --config-file=config/config.yaml PRESENTATION.md
+    @presenterm --config-file=config/config.yaml src/presentation.md
     
 [doc("Export the presentation as a PDF")]
 pdf:
-    @presenterm --config-file=config/config.yaml --export-pdf PRESENTATION.md
+    @presenterm --config-file=config/config.yaml --export-pdf src/presentation.md
 
 [doc("Export the presentation as a portable HTML website")]
 html:
-    @presenterm --config-file=config/config.yaml --export-html PRESENTATION.md
+    @presenterm --config-file=config/config.yaml --export-html src/presentation.md
