@@ -5,7 +5,7 @@ the markdown content in [PRESENTATION.md](/PRESENTATION.md) as a presentation.
 Once you install **presenterm**, just run:
 
 ```fish
-presenterm PRESENTATION.md
+presenterm --config-file=config/config.yaml PRESENTATION.md
 ```
 
 ### 2. Licensing
