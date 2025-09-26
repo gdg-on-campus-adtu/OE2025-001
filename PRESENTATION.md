@@ -1,0 +1,4 @@
+---
+theme:
+  name: catppuccin-mocha
+---
