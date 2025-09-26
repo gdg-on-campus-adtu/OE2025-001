@@ -19,6 +19,7 @@
             name = "OE2025-001";
             packages = [
               pkgs.just
+              pkgs.mermaid-cli
               pkgs.presenterm
               pkgs.python313Packages.weasyprint
             ];
