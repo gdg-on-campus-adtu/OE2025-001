@@ -22,6 +22,7 @@
               pkgs.mermaid-cli
               pkgs.presenterm
               pkgs.python313Packages.weasyprint
+              pkgs.typst
             ];
           };
         };

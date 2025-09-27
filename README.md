@@ -14,6 +14,9 @@ Alternatively, if you prefer to do things manually, you need:
   slideshow tool. `(required)`
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli), a command line tool
   for the [Mermaid](https://github.com/mermaid-js/mermaid) library. `(required)`
+- [typst](https://github.com/typst/typst), a markup-based typesetting system
+  that is powerful and easy to learn. Additionally, you need
+  [Maple Mono NF](https://github.com/subframe7536/maple-font). `(required)`
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint), the awesome document
   factory! `(optional)`
 
