@@ -5,6 +5,15 @@ date: 2025-x-y
 author: <...>
 ---
 
+<!-- include: ./chapters/1_0_a.md -->
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+<!-- include: ./chapters/1_0_b.md -->
+<!-- column: 1 -->
+<!-- include: ./chapters/1_0_c.md -->
+<!-- reset_layout -->
+<!-- end_slide -->
+
 <!-- include: ./chapters/1_2_a.md -->
 <!-- end_slide -->
 
