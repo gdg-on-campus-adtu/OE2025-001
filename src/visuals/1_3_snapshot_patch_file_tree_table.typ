@@ -22,7 +22,7 @@
 
 #table(
   columns: 4,
-  [], [Snapshot-based], [Patch-based], [File-based / Tree-based],
+  [], [Snapshot-based], [Patch-based], [Delta-based],
 
   [Initial balance],
   [100],

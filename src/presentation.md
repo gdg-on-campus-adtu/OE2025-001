@@ -26,7 +26,7 @@ author: <...>
 <!-- include: ./chapters/1_3.md -->
 <!-- end_slide -->
 
-<!-- column_layout: [7, 3] -->
+<!-- column_layout: [1, 1] -->
 <!-- column: 0 -->
 <!-- include: ./chapters/1_4_a.md -->
 <!-- column: 1 -->
