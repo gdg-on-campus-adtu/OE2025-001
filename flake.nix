@@ -20,6 +20,7 @@
             packages = [
               pkgs.just
               pkgs.mermaid-cli
+              pkgs.maple-mono.NF
               pkgs.presenterm
               pkgs.python313Packages.weasyprint
               pkgs.typst
