@@ -1,13 +1,14 @@
 ### 1. How to work with this presentation?
 
-This project can be scaffolded using [Nix](https://nixos.org) and
+This presentation can be scaffolded using [Nix](https://nixos.org) and
 [direnv](https://direnv.net). To scaffold, run:
 
 ```fish
 direnv allow
 ```
 
-Alternatively, if you prefer to do things manually, you need:
+While **Nix** is the preferred way to work on this presentation, if you wish to
+do things manually, you need:
 
 - [just](https://github.com/casey/just), a command runner. `(optional)`
 - [presenterm](https://github.com/mfontanini/presenterm), a markdown terminal
@@ -15,8 +16,8 @@ Alternatively, if you prefer to do things manually, you need:
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli), a command line tool
   for the [Mermaid](https://github.com/mermaid-js/mermaid) library. `(required)`
 - [typst](https://github.com/typst/typst), a markup-based typesetting system
-  that is powerful and easy to learn. Additionally, you need
-  [Maple Mono NF](https://github.com/subframe7536/maple-font). `(required)`
+  that is powerful and easy to learn. Additionally, the typst documents make use
+  of [Maple Mono NF](https://github.com/subframe7536/maple-font). `(required)`
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint), the awesome document
   factory! `(optional)`
 
@@ -26,9 +27,16 @@ Alternatively, if you prefer to do things manually, you need:
 > `just`. Additionally, `WeasyPrint` is only needed if you want to export the
 > presentation as a `PDF`.
 
-Make sure the binaries are available through the `PATH` variable. The tasks to
-run and export the presentation are defined in [Justfile](/Justfile). Here is an
-quick overview:
+On Linux/macOS, you can either make use of [Homebrew](https://brew.sh) or your
+package manager of choice. On Windows, [winget](https://winget.run) is probably
+your best bet. Additionally, `mermaid-cli` can be installed from
+[npmjs.com](https://www.npmjs.com/package/@mermaid-js/mermaid-cli), while
+`WeasyPrint` can be installed from
+[pypi.org](https://pypi.org/project/weasyprint). Make sure the tools are
+available through the `PATH` variable after you install them your preferred way.
+
+The tasks to run and export this presentation are defined in
+[Justfile](/Justfile). Here is a quick overview:
 
 ```fish
 # Start the presentation
