@@ -42,3 +42,16 @@ author: <...>
 <!-- column: 1 -->
 <!-- include: ./chapters/1_4_b.md -->
 <!-- reset_layout -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_5.md -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_6.md -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_7.md -->
+<!-- end_slide -->
