@@ -59,3 +59,11 @@ author: <...>
 <!-- new_line -->
 <!-- include: ./chapters/1_7.md -->
 <!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_8.md -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_9.md -->
+<!-- end_slide -->
