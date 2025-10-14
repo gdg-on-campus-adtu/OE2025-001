@@ -32,7 +32,11 @@ author: <...>
 <!-- end_slide -->
 
 <!-- new_line -->
-<!-- include: ./chapters/1_3.md -->
+<!-- include: ./chapters/1_3_a.md -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_3_b.md -->
 <!-- end_slide -->
 
 <!-- new_line -->
