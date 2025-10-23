@@ -1,8 +1,8 @@
 ---
 title: "**OE2025-001**———Introduction to Version Control through Git"
 sub_title: Google Developer Groups on Campus
-date: Oct 2025
-author: <...>
+date: Nov 2025
+author: Lungsom Lamnio, Himan Kalita, and Debarchito Nath
 ---
 
 <!-- new_line -->
@@ -66,4 +66,8 @@ author: <...>
 
 <!-- new_line -->
 <!-- include: ./chapters/1_9.md -->
+<!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_10.md -->
 <!-- end_slide -->
