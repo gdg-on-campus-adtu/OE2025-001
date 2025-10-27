@@ -1,0 +1,9 @@
+flowchart LR
+  VCS --> DELTA["Delta-based"]
+  VCS["Version Control Systems (VCS)"] --> |<span style="padding:10px;color:#a6e3a1;">Our focus for today</span>| SNAPSHOT["Snapshot-based"]
+  VCS --> PATCH["Patch-based"]
+
+  style VCS fill:#94e2d5,stroke:#1e1e2e,stroke-width:2px,color:#1e1e2e
+  style SNAPSHOT fill:#a6e3a1,stroke:#1e1e2e,stroke-width:2px,color:#1e1e2e
+  style PATCH fill:#f9e2af,stroke:#1e1e2e,stroke-width:2px,color:#1e1e2e
+  style DELTA fill:#f5e0dc,stroke:#1e1e2e,stroke-width:2px,color:#1e1e2e
