@@ -91,3 +91,7 @@ author: Himan Kalita and Debarchito Nath
 <!-- new_line -->
 <!-- include: ./chapters/1_15.md -->
 <!-- end_slide -->
+
+<!-- new_line -->
+<!-- include: ./chapters/1_16.md -->
+<!-- end_slide -->
